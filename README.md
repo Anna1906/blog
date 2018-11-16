@@ -1,4 +1,5 @@
 # 道明君的知识库
+本wiki采用issues方式记录
 https://github.com/DaoMingJun/wiki/issues
 
 ### 威胁情报共享、漏洞预警、安全建设交流。
