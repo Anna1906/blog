@@ -1,5 +1,5 @@
-# 道明君的知识库
-本wiki采用issues方式记录
+# 道明君的博客
+使用issues代替博客功能
 https://github.com/DaoMingJun/wiki/issues
 
 ### 威胁情报共享、漏洞预警、安全建设交流。
