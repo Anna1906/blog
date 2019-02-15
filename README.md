@@ -3,10 +3,15 @@
 ## 文章分类：
 
 一、 [安全技术](https://github.com/DaoMingJun/blog/projects/7)
+
 二、 [至道四经](https://github.com/DaoMingJun/blog/projects/2)
+
 三、 [礼义五经](https://github.com/DaoMingJun/blog/projects/4)
+
 四、 [韬略六经](https://github.com/DaoMingJun/blog/projects/3)
+
 五、 [蒙学十三经](https://github.com/DaoMingJun/blog/projects/2)
+
 六、 [公开课](https://github.com/DaoMingJun/blog/projects/6)
 
 ## 文章列表
@@ -32,4 +37,18 @@
 * * [黑客入侵应急分析手工排查](https://github.com/DaoMingJun/blog/issues/15)
 
 * * [企业安全工作要点思维导图](https://github.com/DaoMingJun/blog/issues/13)
+
+* 2、Web安全
+* * [Gitlab远程代码执行漏洞](https://github.com/DaoMingJun/blog/issues/19)
+
+* 3、渗透测试
+* * [邮件钓鱼攻击与溯源　(FREEBUF)](https://github.com/DaoMingJun/blog/issues/22)
+
+* * [Read MySQL Client's File](https://github.com/DaoMingJun/blog/issues/18)
+
+* * [渗透测试知识库（Pentest WiKi）](https://github.com/DaoMingJun/blog/issues/9)
+
+* * [SSRF攻击文档（译文）](https://github.com/DaoMingJun/blog/issues/8)
+
+
 
