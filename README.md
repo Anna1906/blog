@@ -2,18 +2,18 @@
 
 ## 文章分类：
 
-1. [安全技术](https://github.com/DaoMingJun/blog/projects/7)
-2. [至道四经](https://github.com/DaoMingJun/blog/projects/2)
-3. [礼义五经](https://github.com/DaoMingJun/blog/projects/4)
-4. [韬略六经](https://github.com/DaoMingJun/blog/projects/3)
-5. [蒙学十三经](https://github.com/DaoMingJun/blog/projects/2)
-6. [公开课](https://github.com/DaoMingJun/blog/projects/6)
+一、 [安全技术](https://github.com/DaoMingJun/blog/projects/7)
+二、 [至道四经](https://github.com/DaoMingJun/blog/projects/2)
+三、 [礼义五经](https://github.com/DaoMingJun/blog/projects/4)
+四、 [韬略六经](https://github.com/DaoMingJun/blog/projects/3)
+五、 [蒙学十三经](https://github.com/DaoMingJun/blog/projects/2)
+六、 [公开课](https://github.com/DaoMingJun/blog/projects/6)
 
 ## 文章列表
-### 1. 安全技术
- * 1、企业安全
+### 一、 安全技术
+* 1、企业安全
  
-* * 1.1、[打造互联网企业全能型WAF](https://github.com/DaoMingJun/blog/issues/20)
+* * [打造互联网企业全能型WAF](https://github.com/DaoMingJun/blog/issues/20)
  
 * * [企业安全建设技能树v1.0](https://github.com/DaoMingJun/blog/issues/16)
  
@@ -32,3 +32,4 @@
 * * [黑客入侵应急分析手工排查](https://github.com/DaoMingJun/blog/issues/15)
 
 * * [企业安全工作要点思维导图](https://github.com/DaoMingJun/blog/issues/13)
+
