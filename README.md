@@ -1,5 +1,9 @@
 # 道明君的博客
 
+## 简介
+ issues+projects 当博客，简直太好用，主要是编辑器很赞，偶尔转载一些文章到这里。
+ 
+
 ## 文章分类
 
 一、 [安全技术](https://github.com/DaoMingJun/blog/projects/7)
@@ -51,4 +55,8 @@
 * * [SSRF攻击文档（译文）](https://github.com/DaoMingJun/blog/issues/8)
 
 
+
+## 关于我
+毕业于中国顶尖工科院校: 山东布鲁弗来学院 • 挖掘机系，目前就职于广州某公司，任职漏洞挖掘工作、职位是固体物质移动空间工程师。
+邮箱: x(艾特)xeye.io
 
