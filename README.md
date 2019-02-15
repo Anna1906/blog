@@ -1,5 +1,6 @@
 # 道明君的博客
-使用issues代替博客功能
-https://github.com/DaoMingJun/blog/issues
 
+1 安全技术
+   Web安全
+   [Gitlab远程代码执行漏洞](https://github.com/DaoMingJun/blog/issues/19)
 
