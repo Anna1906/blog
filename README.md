@@ -10,8 +10,8 @@
 6. [公开课](https://github.com/DaoMingJun/blog/projects/6)
 
 ## 文章列表
-1. 安全技术
- > 企业安全
+### 1. 安全技术
+ > **企业安全**
  > > [打造互联网企业全能型WAF](https://github.com/DaoMingJun/blog/issues/20)
  
   > > [企业安全建设技能树v1.0](https://github.com/DaoMingJun/blog/issues/16)
